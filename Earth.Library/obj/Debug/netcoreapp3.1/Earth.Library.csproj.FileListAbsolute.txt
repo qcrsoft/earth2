@@ -1,0 +1,9 @@
+C:\projects\Earth\Earth.Library\bin\Debug\netcoreapp3.1\Earth.Library.deps.json
+C:\projects\Earth\Earth.Library\bin\Debug\netcoreapp3.1\Earth.Library.dll
+C:\projects\Earth\Earth.Library\bin\Debug\netcoreapp3.1\Earth.Library.pdb
+C:\projects\Earth\Earth.Library\obj\Debug\netcoreapp3.1\Earth.Library.csprojAssemblyReference.cache
+C:\projects\Earth\Earth.Library\obj\Debug\netcoreapp3.1\Earth.Library.AssemblyInfoInputs.cache
+C:\projects\Earth\Earth.Library\obj\Debug\netcoreapp3.1\Earth.Library.AssemblyInfo.cs
+C:\projects\Earth\Earth.Library\obj\Debug\netcoreapp3.1\Earth.Library.csproj.CoreCompileInputs.cache
+C:\projects\Earth\Earth.Library\obj\Debug\netcoreapp3.1\Earth.Library.dll
+C:\projects\Earth\Earth.Library\obj\Debug\netcoreapp3.1\Earth.Library.pdb
